@@ -6,11 +6,11 @@ import (
 	"log"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/embeddings"
-	"github.com/vxcontrol/langchaingo/llms/openai"
-	"github.com/vxcontrol/langchaingo/schema"
-	"github.com/vxcontrol/langchaingo/vectorstores"
-	"github.com/vxcontrol/langchaingo/vectorstores/milvus"
+	"github.com/whitehathub-007/langchaingo/embeddings"
+	"github.com/whitehathub-007/langchaingo/llms/openai"
+	"github.com/whitehathub-007/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/vectorstores"
+	"github.com/whitehathub-007/langchaingo/vectorstores/milvus"
 
 	"github.com/milvus-io/milvus-sdk-go/v2/client"
 	"github.com/milvus-io/milvus-sdk-go/v2/entity"

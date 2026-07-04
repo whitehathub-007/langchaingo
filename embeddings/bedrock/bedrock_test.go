@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/embeddings/bedrock"
-	"github.com/vxcontrol/langchaingo/internal/httprr"
+	"github.com/whitehathub-007/langchaingo/embeddings/bedrock"
+	"github.com/whitehathub-007/langchaingo/internal/httprr"
 
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/aws/aws-sdk-go-v2/config"

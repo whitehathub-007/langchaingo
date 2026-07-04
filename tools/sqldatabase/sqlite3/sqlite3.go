@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 
-	"github.com/vxcontrol/langchaingo/tools/sqldatabase"
+	"github.com/whitehathub-007/langchaingo/tools/sqldatabase"
 
 	_ "github.com/mattn/go-sqlite3" // sqlite3 driver
 )

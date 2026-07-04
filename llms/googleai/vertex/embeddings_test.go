@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/llms/googleai"
-	"github.com/vxcontrol/langchaingo/llms/googleai/internal/palmclient"
+	"github.com/whitehathub-007/langchaingo/llms/googleai"
+	"github.com/whitehathub-007/langchaingo/llms/googleai/internal/palmclient"
 )
 
 func TestCreateEmbedding(t *testing.T) {

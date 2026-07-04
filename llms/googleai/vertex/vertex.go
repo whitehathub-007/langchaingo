@@ -12,12 +12,12 @@ import (
 	"io"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/llms/googleai"
-	"github.com/vxcontrol/langchaingo/llms/streaming"
+	"github.com/whitehathub-007/langchaingo/llms/googleai"
+	"github.com/whitehathub-007/langchaingo/llms/streaming"
 
 	"cloud.google.com/go/vertexai/genai"
-	"github.com/vxcontrol/langchaingo/internal/imageutil"
-	"github.com/vxcontrol/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/internal/imageutil"
+	"github.com/whitehathub-007/langchaingo/llms"
 	"google.golang.org/api/iterator"
 )
 

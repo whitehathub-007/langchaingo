@@ -9,8 +9,8 @@ import (
 	"github.com/aws/aws-sdk-go-v2/service/bedrockruntime/types"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/reasoning"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/reasoning"
 )
 
 // Note: BedrockRuntimeClientInterface is defined in bedrockclient_conversion.go

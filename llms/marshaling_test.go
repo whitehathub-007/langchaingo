@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/llms/reasoning"
+	"github.com/whitehathub-007/langchaingo/llms/reasoning"
 
 	"github.com/google/go-cmp/cmp"
 	"sigs.k8s.io/yaml"

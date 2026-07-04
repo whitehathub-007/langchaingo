@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/schema"
 )
 
 // RegexParser is an output parser used to parse the output of an LLM as a map.

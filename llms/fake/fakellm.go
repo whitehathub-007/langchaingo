@@ -5,7 +5,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/vxcontrol/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms"
 )
 
 type LLM struct {

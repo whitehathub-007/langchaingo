@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/vxcontrol/langchaingo/httputil"
+	"github.com/whitehathub-007/langchaingo/httputil"
 )
 
 var (

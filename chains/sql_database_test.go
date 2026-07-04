@@ -5,10 +5,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/internal/httprr"
-	"github.com/vxcontrol/langchaingo/llms/openai"
-	"github.com/vxcontrol/langchaingo/tools/sqldatabase"
-	"github.com/vxcontrol/langchaingo/tools/sqldatabase/mysql"
+	"github.com/whitehathub-007/langchaingo/internal/httprr"
+	"github.com/whitehathub-007/langchaingo/llms/openai"
+	"github.com/whitehathub-007/langchaingo/tools/sqldatabase"
+	"github.com/whitehathub-007/langchaingo/tools/sqldatabase/mysql"
 
 	"github.com/stretchr/testify/require"
 )

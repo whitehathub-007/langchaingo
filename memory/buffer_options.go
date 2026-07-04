@@ -1,6 +1,6 @@
 package memory
 
-import "github.com/vxcontrol/langchaingo/schema"
+import "github.com/whitehathub-007/langchaingo/schema"
 
 // ConversationBufferOption is a function for creating new buffer
 // with other than the default values.

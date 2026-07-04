@@ -3,8 +3,8 @@ package chains
 import (
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/prompts"
-	"github.com/vxcontrol/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/prompts"
+	"github.com/whitehathub-007/langchaingo/schema"
 
 	"github.com/stretchr/testify/require"
 )

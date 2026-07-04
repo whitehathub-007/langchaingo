@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/vxcontrol/langchaingo/callbacks"
-	"github.com/vxcontrol/langchaingo/tools"
+	"github.com/whitehathub-007/langchaingo/callbacks"
+	"github.com/whitehathub-007/langchaingo/tools"
 )
 
 const (

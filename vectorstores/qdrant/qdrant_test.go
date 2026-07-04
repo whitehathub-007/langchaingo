@@ -8,10 +8,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/httputil"
-	"github.com/vxcontrol/langchaingo/internal/httprr"
-	"github.com/vxcontrol/langchaingo/schema"
-	"github.com/vxcontrol/langchaingo/vectorstores"
+	"github.com/whitehathub-007/langchaingo/httputil"
+	"github.com/whitehathub-007/langchaingo/internal/httprr"
+	"github.com/whitehathub-007/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/vectorstores"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

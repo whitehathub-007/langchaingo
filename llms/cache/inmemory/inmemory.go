@@ -3,7 +3,7 @@ package inmemory
 import (
 	"context"
 
-	"github.com/vxcontrol/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms"
 
 	cache "github.com/Code-Hex/go-generics-cache"
 )

@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/vxcontrol/langchaingo/tools/sqldatabase"
+	"github.com/whitehathub-007/langchaingo/tools/sqldatabase"
 
 	_ "github.com/go-sql-driver/mysql" // mysql driver
 )

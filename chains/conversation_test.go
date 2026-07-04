@@ -8,10 +8,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/internal/httprr"
-	"github.com/vxcontrol/langchaingo/llms/openai"
-	"github.com/vxcontrol/langchaingo/memory"
-	"github.com/vxcontrol/langchaingo/memory/zep"
+	"github.com/whitehathub-007/langchaingo/internal/httprr"
+	"github.com/whitehathub-007/langchaingo/llms/openai"
+	"github.com/whitehathub-007/langchaingo/memory"
+	"github.com/whitehathub-007/langchaingo/memory/zep"
 
 	z "github.com/getzep/zep-go"
 	zClient "github.com/getzep/zep-go/client"

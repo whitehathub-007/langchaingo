@@ -3,8 +3,8 @@ package bedrock
 import (
 	"time"
 
-	"github.com/vxcontrol/langchaingo/callbacks"
-	"github.com/vxcontrol/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/callbacks"
+	"github.com/whitehathub-007/langchaingo/llms"
 
 	"github.com/aws/aws-sdk-go-v2/service/bedrockruntime"
 )

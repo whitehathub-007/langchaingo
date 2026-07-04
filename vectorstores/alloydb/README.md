@@ -36,7 +36,7 @@ import (
   "context"
   "fmt"
 
-  "github.com/vxcontrol/langchaingo/internal/alloydbutil"
+  "github.com/whitehathub-007/langchaingo/internal/alloydbutil"
 )
 
 func NewAlloyDBEngine(ctx context.Context) (*alloydbutil.PostgresEngine, error) {
@@ -62,7 +62,7 @@ func main() {
 }
 ```
 
-See the full [Vector Store example and tutorial](https://github.com/vxcontrol/langchaingo/tree/main/examples/google-alloydb-vectorstore-example).
+See the full [Vector Store example and tutorial](https://github.com/whitehathub-007/langchaingo/tree/main/examples/google-alloydb-vectorstore-example).
 
 ## Engine Creation WithPool
 
@@ -77,7 +77,7 @@ import (
   "fmt"
 
   "github.com/jackc/pgx/v5/pgxpool"
-  "github.com/vxcontrol/langchaingo/internal/alloydbutil"
+  "github.com/whitehathub-007/langchaingo/internal/alloydbutil"
 )
 
 func NewAlloyDBWithPoolEngine(ctx context.Context) (*alloydbutil.PostgresEngine, error) {
@@ -113,10 +113,10 @@ import (
   "context"
   "fmt"
 
-  "github.com/vxcontrol/langchaingo/embeddings"
-  "github.com/vxcontrol/langchaingo/internal/alloydbutil"
-  "github.com/vxcontrol/langchaingo/llms/googleai/vertex"
-  "github.com/vxcontrol/langchaingo/vectorstores/alloydb"
+  "github.com/whitehathub-007/langchaingo/embeddings"
+  "github.com/whitehathub-007/langchaingo/internal/alloydbutil"
+  "github.com/whitehathub-007/langchaingo/llms/googleai/vertex"
+  "github.com/whitehathub-007/langchaingo/vectorstores/alloydb"
 )
 
 func main() {

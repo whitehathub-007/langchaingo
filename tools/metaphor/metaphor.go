@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/tools"
+	"github.com/whitehathub-007/langchaingo/tools"
 
 	"github.com/metaphorsystems/metaphor-go"
 )

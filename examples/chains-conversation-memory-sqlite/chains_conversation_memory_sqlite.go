@@ -6,11 +6,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/vxcontrol/langchaingo/chains"
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/openai"
-	"github.com/vxcontrol/langchaingo/memory"
-	"github.com/vxcontrol/langchaingo/memory/sqlite3"
+	"github.com/whitehathub-007/langchaingo/chains"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/openai"
+	"github.com/whitehathub-007/langchaingo/memory"
+	"github.com/whitehathub-007/langchaingo/memory/sqlite3"
 
 	_ "github.com/mattn/go-sqlite3"
 )

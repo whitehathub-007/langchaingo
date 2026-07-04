@@ -6,9 +6,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/schema"
-	"github.com/vxcontrol/langchaingo/util/alloydbutil"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/util/alloydbutil"
 
 	"github.com/jackc/pgx/v5"
 )

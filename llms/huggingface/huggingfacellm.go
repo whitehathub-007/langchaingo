@@ -7,9 +7,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/vxcontrol/langchaingo/callbacks"
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/huggingface/internal/huggingfaceclient"
+	"github.com/whitehathub-007/langchaingo/callbacks"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/huggingface/internal/huggingfaceclient"
 )
 
 var (

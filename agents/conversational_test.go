@@ -8,12 +8,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/chains"
-	"github.com/vxcontrol/langchaingo/httputil"
-	"github.com/vxcontrol/langchaingo/internal/httprr"
-	"github.com/vxcontrol/langchaingo/llms/openai"
-	"github.com/vxcontrol/langchaingo/memory"
-	"github.com/vxcontrol/langchaingo/tools"
+	"github.com/whitehathub-007/langchaingo/chains"
+	"github.com/whitehathub-007/langchaingo/httputil"
+	"github.com/whitehathub-007/langchaingo/internal/httprr"
+	"github.com/whitehathub-007/langchaingo/llms/openai"
+	"github.com/whitehathub-007/langchaingo/memory"
+	"github.com/whitehathub-007/langchaingo/tools"
 
 	"github.com/stretchr/testify/require"
 )

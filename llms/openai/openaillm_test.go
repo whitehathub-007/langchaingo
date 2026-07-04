@@ -10,9 +10,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/openai/internal/openaiclient"
-	"github.com/vxcontrol/langchaingo/llms/reasoning"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/openai/internal/openaiclient"
+	"github.com/whitehathub-007/langchaingo/llms/reasoning"
 )
 
 // TestExtractToolParts tests the ExtractToolParts function with various content types

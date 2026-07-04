@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/memory"
-	"github.com/vxcontrol/langchaingo/prompts"
-	"github.com/vxcontrol/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/memory"
+	"github.com/whitehathub-007/langchaingo/prompts"
+	"github.com/whitehathub-007/langchaingo/schema"
 )
 
 const (

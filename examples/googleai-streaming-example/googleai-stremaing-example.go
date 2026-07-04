@@ -7,9 +7,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/googleai"
-	"github.com/vxcontrol/langchaingo/llms/streaming"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/googleai"
+	"github.com/whitehathub-007/langchaingo/llms/streaming"
 )
 
 func main() {

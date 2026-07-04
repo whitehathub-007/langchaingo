@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"maps"
 
-	"github.com/vxcontrol/langchaingo/memory"
-	"github.com/vxcontrol/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/memory"
+	"github.com/whitehathub-007/langchaingo/schema"
 )
 
 // MapReduceDocuments is a chain that combines documents by mapping a chain over them, then

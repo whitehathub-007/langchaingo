@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/callbacks"
-	"github.com/vxcontrol/langchaingo/chains"
-	"github.com/vxcontrol/langchaingo/schema"
-	"github.com/vxcontrol/langchaingo/tools"
+	"github.com/whitehathub-007/langchaingo/callbacks"
+	"github.com/whitehathub-007/langchaingo/chains"
+	"github.com/whitehathub-007/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/tools"
 )
 
 const _intermediateStepsOutputKey = "intermediateSteps"

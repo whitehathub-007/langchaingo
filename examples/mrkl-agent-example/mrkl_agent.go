@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/vxcontrol/langchaingo/agents"
-	"github.com/vxcontrol/langchaingo/chains"
-	"github.com/vxcontrol/langchaingo/llms/openai"
-	"github.com/vxcontrol/langchaingo/tools"
-	"github.com/vxcontrol/langchaingo/tools/serpapi"
+	"github.com/whitehathub-007/langchaingo/agents"
+	"github.com/whitehathub-007/langchaingo/chains"
+	"github.com/whitehathub-007/langchaingo/llms/openai"
+	"github.com/whitehathub-007/langchaingo/tools"
+	"github.com/whitehathub-007/langchaingo/tools/serpapi"
 )
 
 func main() {

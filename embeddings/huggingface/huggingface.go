@@ -4,8 +4,8 @@ import (
 	"context"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/embeddings"
-	"github.com/vxcontrol/langchaingo/llms/huggingface"
+	"github.com/whitehathub-007/langchaingo/embeddings"
+	"github.com/whitehathub-007/langchaingo/llms/huggingface"
 )
 
 // Huggingface is the embedder using the Huggingface hub api.

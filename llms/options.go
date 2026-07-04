@@ -1,8 +1,8 @@
 package llms
 
 import (
-	"github.com/vxcontrol/langchaingo/llms/reasoning"
-	"github.com/vxcontrol/langchaingo/llms/streaming"
+	"github.com/whitehathub-007/langchaingo/llms/reasoning"
+	"github.com/whitehathub-007/langchaingo/llms/streaming"
 )
 
 // CallOption is a function that configures a CallOptions.

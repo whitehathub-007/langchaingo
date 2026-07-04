@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/httputil"
-	"github.com/vxcontrol/langchaingo/internal/httprr"
+	"github.com/whitehathub-007/langchaingo/httputil"
+	"github.com/whitehathub-007/langchaingo/internal/httprr"
 
 	"github.com/stretchr/testify/require"
 )

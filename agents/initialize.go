@@ -1,8 +1,8 @@
 package agents
 
 import (
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/tools"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/tools"
 )
 
 const _defaultMaxIterations = 5

@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/anthropic"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/anthropic"
 )
 
 func TestEphemeralCache(t *testing.T) {

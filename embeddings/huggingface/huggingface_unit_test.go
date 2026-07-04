@@ -3,7 +3,7 @@ package huggingface
 import (
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/llms/huggingface"
+	"github.com/whitehathub-007/langchaingo/llms/huggingface"
 
 	"github.com/stretchr/testify/assert"
 )

@@ -5,7 +5,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/vxcontrol/langchaingo/llms/streaming"
+	"github.com/whitehathub-007/langchaingo/llms/streaming"
 )
 
 // StreamLogHandler is a callback handler that prints to the standard output streaming.

@@ -6,7 +6,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/vxcontrol/langchaingo/llms/reasoning"
+	"github.com/whitehathub-007/langchaingo/llms/reasoning"
 )
 
 // MessageContent is the content of a message sent to a LLM. It has a role and a

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/vxcontrol/langchaingo/embeddings"
+	"github.com/whitehathub-007/langchaingo/embeddings"
 )
 
 const (

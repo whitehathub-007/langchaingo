@@ -3,8 +3,8 @@ package opensearch
 import (
 	"errors"
 
-	"github.com/vxcontrol/langchaingo/embeddings"
-	"github.com/vxcontrol/langchaingo/vectorstores"
+	"github.com/whitehathub-007/langchaingo/embeddings"
+	"github.com/whitehathub-007/langchaingo/vectorstores"
 )
 
 var (

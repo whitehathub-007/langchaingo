@@ -3,7 +3,7 @@ package outputparser_test
 import (
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/outputparser"
+	"github.com/whitehathub-007/langchaingo/outputparser"
 )
 
 func TestBooleanParser(t *testing.T) {

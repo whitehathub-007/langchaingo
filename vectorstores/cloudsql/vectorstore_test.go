@@ -7,10 +7,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/internal/httprr"
-	"github.com/vxcontrol/langchaingo/schema"
-	"github.com/vxcontrol/langchaingo/util/cloudsqlutil"
-	"github.com/vxcontrol/langchaingo/vectorstores/cloudsql"
+	"github.com/whitehathub-007/langchaingo/internal/httprr"
+	"github.com/whitehathub-007/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/util/cloudsqlutil"
+	"github.com/whitehathub-007/langchaingo/vectorstores/cloudsql"
 )
 
 type EnvVariables struct {

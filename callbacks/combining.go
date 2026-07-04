@@ -3,9 +3,9 @@ package callbacks
 import (
 	"context"
 
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/streaming"
-	"github.com/vxcontrol/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/streaming"
+	"github.com/whitehathub-007/langchaingo/schema"
 )
 
 // CombiningHandler is a callback handler that combine multi callbacks.

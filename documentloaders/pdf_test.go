@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/textsplitter"
+	"github.com/whitehathub-007/langchaingo/textsplitter"
 
 	"github.com/ledongthuc/pdf"
 	"github.com/stretchr/testify/assert"

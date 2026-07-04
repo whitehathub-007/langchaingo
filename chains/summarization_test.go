@@ -5,11 +5,11 @@ import (
 	"os"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/documentloaders"
-	"github.com/vxcontrol/langchaingo/internal/httprr"
-	"github.com/vxcontrol/langchaingo/llms/openai"
-	"github.com/vxcontrol/langchaingo/schema"
-	"github.com/vxcontrol/langchaingo/textsplitter"
+	"github.com/whitehathub-007/langchaingo/documentloaders"
+	"github.com/whitehathub-007/langchaingo/internal/httprr"
+	"github.com/whitehathub-007/langchaingo/llms/openai"
+	"github.com/whitehathub-007/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/textsplitter"
 
 	"github.com/stretchr/testify/require"
 )

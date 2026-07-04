@@ -4,7 +4,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/llms/streaming"
+	"github.com/whitehathub-007/langchaingo/llms/streaming"
 )
 
 // DefaultKeywords is map of the agents final out prefix keywords.

@@ -22,7 +22,7 @@ A CLI tool that:
 mkdir ai-code-reviewer
 cd ai-code-reviewer
 go mod init code-reviewer
-go get github.com/vxcontrol/langchaingo
+go get github.com/whitehathub-007/langchaingo
 ```
 
 ## Step 2: Core reviewer structure
@@ -45,9 +45,9 @@ import (
     "path/filepath"
     "strings"
 
-    "github.com/vxcontrol/langchaingo/llms"
-    "github.com/vxcontrol/langchaingo/llms/openai"
-    "github.com/vxcontrol/langchaingo/prompts"
+    "github.com/whitehathub-007/langchaingo/llms"
+    "github.com/whitehathub-007/langchaingo/llms/openai"
+    "github.com/whitehathub-007/langchaingo/prompts"
 )
 
 type CodeReviewer struct {

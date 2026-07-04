@@ -4,10 +4,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/vxcontrol/langchaingo/callbacks"
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/openai/internal/openaiclient"
-	"github.com/vxcontrol/langchaingo/llms/reasoning"
+	"github.com/whitehathub-007/langchaingo/callbacks"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/openai/internal/openaiclient"
+	"github.com/whitehathub-007/langchaingo/llms/reasoning"
 )
 
 type ChatMessage = openaiclient.ChatMessage

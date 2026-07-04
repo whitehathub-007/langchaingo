@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/mistral"
-	"github.com/vxcontrol/langchaingo/llms/streaming"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/mistral"
+	"github.com/whitehathub-007/langchaingo/llms/streaming"
 )
 
 func main() {

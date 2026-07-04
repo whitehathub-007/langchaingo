@@ -74,9 +74,9 @@ import (
     "fmt"
     "log"
     
-    "github.com/vxcontrol/langchaingo/agents"
-    "github.com/vxcontrol/langchaingo/llms/ollama"
-    "github.com/vxcontrol/langchaingo/tools"
+    "github.com/whitehathub-007/langchaingo/agents"
+    "github.com/whitehathub-007/langchaingo/llms/ollama"
+    "github.com/whitehathub-007/langchaingo/tools"
 )
 
 func main() {

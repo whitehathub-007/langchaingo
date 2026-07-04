@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/tools/sqldatabase"
-	_ "github.com/vxcontrol/langchaingo/tools/sqldatabase/sqlite3"
+	"github.com/whitehathub-007/langchaingo/tools/sqldatabase"
+	_ "github.com/whitehathub-007/langchaingo/tools/sqldatabase/sqlite3"
 
 	"github.com/stretchr/testify/require"
 )

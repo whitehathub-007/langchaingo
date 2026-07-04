@@ -1,8 +1,8 @@
-module github.com/vxcontrol/langchaingo/examples/mistral-embedding-example
+module github.com/whitehathub-007/langchaingo/examples/mistral-embedding-example
 
 go 1.24.1
 
-require github.com/vxcontrol/langchaingo v0.1.14-update.1
+require github.com/whitehathub-007/langchaingo v0.1.14-update.1
 
 require (
 	github.com/dlclark/regexp2 v1.11.4 // indirect
@@ -17,4 +17,4 @@ require (
 	golang.org/x/text v0.30.0 // indirect
 )
 
-replace github.com/vxcontrol/langchaingo => ../..
+replace github.com/whitehathub-007/langchaingo => ../..

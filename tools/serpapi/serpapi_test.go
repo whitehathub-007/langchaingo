@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/internal/httprr"
+	"github.com/whitehathub-007/langchaingo/internal/httprr"
 )
 
 func TestSerpAPITool(t *testing.T) {

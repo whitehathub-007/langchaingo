@@ -5,8 +5,8 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/reasoning"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/reasoning"
 
 	"github.com/aws/aws-sdk-go-v2/service/bedrockruntime"
 )

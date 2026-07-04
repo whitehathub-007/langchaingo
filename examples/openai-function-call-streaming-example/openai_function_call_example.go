@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/vxcontrol/langchaingo/jsonschema"
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/openai"
-	"github.com/vxcontrol/langchaingo/llms/streaming"
+	"github.com/whitehathub-007/langchaingo/jsonschema"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/openai"
+	"github.com/whitehathub-007/langchaingo/llms/streaming"
 )
 
 func main() {

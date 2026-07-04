@@ -4,11 +4,11 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/vxcontrol/langchaingo/agents"
-	"github.com/vxcontrol/langchaingo/chains"
-	"github.com/vxcontrol/langchaingo/llms/openai"
-	"github.com/vxcontrol/langchaingo/tools"
-	"github.com/vxcontrol/langchaingo/tools/zapier"
+	"github.com/whitehathub-007/langchaingo/agents"
+	"github.com/whitehathub-007/langchaingo/chains"
+	"github.com/whitehathub-007/langchaingo/llms/openai"
+	"github.com/whitehathub-007/langchaingo/tools"
+	"github.com/whitehathub-007/langchaingo/tools/zapier"
 )
 
 func main() {

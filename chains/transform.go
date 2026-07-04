@@ -3,8 +3,8 @@ package chains
 import (
 	"context"
 
-	"github.com/vxcontrol/langchaingo/memory"
-	"github.com/vxcontrol/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/memory"
+	"github.com/whitehathub-007/langchaingo/schema"
 )
 
 // TransformFunc is the function type that the transform chain uses.

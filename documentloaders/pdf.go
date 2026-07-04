@@ -5,8 +5,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/schema"
-	"github.com/vxcontrol/langchaingo/textsplitter"
+	"github.com/whitehathub-007/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/textsplitter"
 
 	"github.com/ledongthuc/pdf"
 )

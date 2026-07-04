@@ -1,8 +1,8 @@
-module github.com/vxcontrol/langchaingo/examples/google-cloudsql-vectorstore-example
+module github.com/whitehathub-007/langchaingo/examples/google-cloudsql-vectorstore-example
 
 go 1.24.1
 
-require github.com/vxcontrol/langchaingo v0.1.14-update.1
+require github.com/whitehathub-007/langchaingo v0.1.14-update.1
 
 require (
 	cloud.google.com/go v0.121.0 // indirect
@@ -54,4 +54,4 @@ require (
 	google.golang.org/protobuf v1.36.6 // indirect
 )
 
-replace github.com/vxcontrol/langchaingo => ../..
+replace github.com/whitehathub-007/langchaingo => ../..

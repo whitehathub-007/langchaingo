@@ -11,10 +11,10 @@ import (
 	"io"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/internal/imageutil"
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/reasoning"
-	"github.com/vxcontrol/langchaingo/llms/streaming"
+	"github.com/whitehathub-007/langchaingo/internal/imageutil"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/reasoning"
+	"github.com/whitehathub-007/langchaingo/llms/streaming"
 
 	"google.golang.org/genai"
 )

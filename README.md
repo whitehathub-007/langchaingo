@@ -2,27 +2,27 @@
 
 # 🦜️🔗 LangChain Go (fork)
 
-[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/vxcontrol/langchaingo)
-[![scorecard](https://goreportcard.com/badge/github.com/vxcontrol/langchaingo)](https://goreportcard.com/report/github.com/vxcontrol/langchaingo)
+[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/whitehathub-007/langchaingo)
+[![scorecard](https://goreportcard.com/badge/github.com/whitehathub-007/langchaingo)](https://goreportcard.com/report/github.com/whitehathub-007/langchaingo)
 [![](https://dcbadge.vercel.app/api/server/8bHGKzHBkM?compact=true&style=flat)](https://discord.gg/8bHGKzHBkM)
-[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/vxcontrol/langchaingo)
+[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/whitehathub-007/langchaingo)
 [<img src="https://github.com/codespaces/badge.svg" title="Open in Github Codespace" width="150" height="20">](https://codespaces.new/vxcontrol/langchaingo)
 
 ⚡ Building applications with LLMs through composability, with Go! ⚡
 
 ## 🚀 Important Announcement 🚀
 
-> **Starting from release [v0.1.13-update.1](https://github.com/vxcontrol/langchaingo/releases/tag/v0.1.13-update.1)**, this fork is now a full-fledged library that **does not require** any `replace` directives in your go.mod file. You can simply add it to your project with:
+> **Starting from release [v0.1.13-update.1](https://github.com/whitehathub-007/langchaingo/releases/tag/v0.1.13-update.1)**, this fork is now a full-fledged library that **does not require** any `replace` directives in your go.mod file. You can simply add it to your project with:
 >
 > ```bash
-> go get github.com/vxcontrol/langchaingo@latest
+> go get github.com/whitehathub-007/langchaingo@latest
 > ```
 
 ## Why this fork?
 
-This fork was created to incorporate functionality from open Pull Requests that haven't been merged into the original repository yet. You can view the list of accepted PRs in our [v0.1.13-update.0 release](https://github.com/vxcontrol/langchaingo/releases/tag/v0.1.13-update.0) and in the [main-pull-requests branch](https://github.com/vxcontrol/langchaingo/commits/main-pull-requests/).
+This fork was created to incorporate functionality from open Pull Requests that haven't been merged into the original repository yet. You can view the list of accepted PRs in our [v0.1.13-update.0 release](https://github.com/whitehathub-007/langchaingo/releases/tag/v0.1.13-update.0) and in the [main-pull-requests branch](https://github.com/whitehathub-007/langchaingo/commits/main-pull-requests/).
 
-Additionally, this repository contains custom improvements and enhancements related to langchaingo support, which will be published as releases. The original repository's state can be accessed in the [main branch](https://github.com/vxcontrol/langchaingo/tree/main), which will be regularly updated with upstream changes.
+Additionally, this repository contains custom improvements and enhancements related to langchaingo support, which will be published as releases. The original repository's state can be accessed in the [main branch](https://github.com/whitehathub-007/langchaingo/tree/main), which will be regularly updated with upstream changes.
 
 This fork is primarily maintained for use in the [PentAGI](https://github.com/vxcontrol/pentagi) project, an autonomous AI Agents system for performing complex penetration testing tasks.
 
@@ -50,7 +50,7 @@ Each new release cumulatively includes all changes from previous releases on top
 **Important**: When using this fork in your projects, always reference **release tags** for stable and predictable dependencies.
 
 ```
-go get github.com/vxcontrol/langchaingo@v0.1.13-update.1
+go get github.com/whitehathub-007/langchaingo@v0.1.13-update.1
 ```
 
 ### Branch Visualization
@@ -73,7 +73,7 @@ When creating a PR, please ensure your changes are well-tested and include appro
 
 ## Acknowledgements
 
-Special thanks to [Travis Cline](https://github.com/tmc) (@tmc) and all [contributors](https://github.com/vxcontrol/langchaingo/graphs/contributors) who have made this project possible.
+Special thanks to [Travis Cline](https://github.com/tmc) (@tmc) and all [contributors](https://github.com/whitehathub-007/langchaingo/graphs/contributors) who have made this project possible.
 
 ## Original resources
 
@@ -87,7 +87,7 @@ This is the Go language implementation of [LangChain](https://github.com/langcha
 ## 📖 Documentation
 
 - [Documentation Site](https://vxcontrol.github.io/langchaingo/docs/)
-- [API Reference](https://pkg.go.dev/github.com/vxcontrol/langchaingo)
+- [API Reference](https://pkg.go.dev/github.com/whitehathub-007/langchaingo)
 
 
 ## 🎉 Examples
@@ -102,8 +102,8 @@ import (
   "fmt"
   "log"
 
-  "github.com/vxcontrol/langchaingo/llms"
-  "github.com/vxcontrol/langchaingo/llms/openai"
+  "github.com/whitehathub-007/langchaingo/llms"
+  "github.com/whitehathub-007/langchaingo/llms/openai"
 )
 
 func main() {
@@ -142,6 +142,6 @@ Here are some links to blog posts and articles on using Langchain Go:
 
 There is a momentum for moving the development of langchaingo to a more community effort, if you are interested in being a maintainer or you are a contributor please join our [Discord](https://discord.gg/8bHGKzHBkM) and let us know.
 
-<a href="https://github.com/vxcontrol/langchaingo/graphs/contributors">
+<a href="https://github.com/whitehathub-007/langchaingo/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=vxcontrol/langchaingo" />
 </a>

@@ -21,11 +21,11 @@ import (
 	"github.com/milvus-io/milvus/client/v2/milvusclient"
 
 	// LangChain Go packages
-	"github.com/vxcontrol/langchaingo/embeddings"
-	"github.com/vxcontrol/langchaingo/llms/openai"
-	"github.com/vxcontrol/langchaingo/schema"
-	oldmilvus "github.com/vxcontrol/langchaingo/vectorstores/milvus"
-	newmilvus "github.com/vxcontrol/langchaingo/vectorstores/milvus/v2"
+	"github.com/whitehathub-007/langchaingo/embeddings"
+	"github.com/whitehathub-007/langchaingo/llms/openai"
+	"github.com/whitehathub-007/langchaingo/schema"
+	oldmilvus "github.com/whitehathub-007/langchaingo/vectorstores/milvus"
+	newmilvus "github.com/whitehathub-007/langchaingo/vectorstores/milvus/v2"
 )
 
 // MigrationExample demonstrates how to migrate from v1 to v2.

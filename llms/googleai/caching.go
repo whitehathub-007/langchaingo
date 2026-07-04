@@ -5,7 +5,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/vxcontrol/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms"
 
 	"google.golang.org/genai"
 )

@@ -20,12 +20,12 @@
 //
 // Installation:
 //
-//	go get github.com/vxcontrol/langchaingo/vectorstores/mongovector@v0.1.13-pre.0
+//	go get github.com/whitehathub-007/langchaingo/vectorstores/mongovector@v0.1.13-pre.0
 //
 // Usage:
 //
 //	import (
-//	    "github.com/vxcontrol/langchaingo/vectorstores/mongovector"
+//	    "github.com/whitehathub-007/langchaingo/vectorstores/mongovector"
 //	    "go.mongodb.org/mongo-driver/mongo"
 //	)
 //

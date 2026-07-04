@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 
-	"github.com/vxcontrol/langchaingo/tools/sqldatabase"
+	"github.com/whitehathub-007/langchaingo/tools/sqldatabase"
 
 	_ "github.com/jackc/pgx/v5/stdlib" // postgresql driver
 )

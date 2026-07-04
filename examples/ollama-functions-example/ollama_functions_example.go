@@ -8,8 +8,8 @@ import (
 	"os"
 	"slices"
 
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/ollama"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/ollama"
 )
 
 func main() {

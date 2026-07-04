@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/vxcontrol/langchaingo/schema"
-	"github.com/vxcontrol/langchaingo/textsplitter"
+	"github.com/whitehathub-007/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/textsplitter"
 )
 
 // WhisperOpenAILoader is a struct for loading and transcribing audio files using Whisper OpenAI model.

@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/internal/testutil/testctr"
-	"github.com/vxcontrol/langchaingo/tools/sqldatabase"
+	"github.com/whitehathub-007/langchaingo/internal/testutil/testctr"
+	"github.com/whitehathub-007/langchaingo/tools/sqldatabase"
 
 	"github.com/stretchr/testify/require"
 	"github.com/testcontainers/testcontainers-go"

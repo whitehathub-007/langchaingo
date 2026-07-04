@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/vxcontrol/langchaingo/llms/reasoning"
+	"github.com/whitehathub-007/langchaingo/llms/reasoning"
 )
 
 type ChunkType string

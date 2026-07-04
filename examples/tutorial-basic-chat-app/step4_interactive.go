@@ -8,8 +8,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/openai"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/openai"
 )
 
 // Step 4: Interactive Chat

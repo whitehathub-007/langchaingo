@@ -7,10 +7,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/vxcontrol/langchaingo/chains"
-	"github.com/vxcontrol/langchaingo/llms/ollama"
-	"github.com/vxcontrol/langchaingo/prompts"
-	"github.com/vxcontrol/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/chains"
+	"github.com/whitehathub-007/langchaingo/llms/ollama"
+	"github.com/whitehathub-007/langchaingo/prompts"
+	"github.com/whitehathub-007/langchaingo/schema"
 )
 
 func main() {

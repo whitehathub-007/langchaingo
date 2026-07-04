@@ -21,7 +21,7 @@ go mod init chat-app
 Install LangChainGo:
 
 ```bash
-go get github.com/vxcontrol/langchaingo
+go get github.com/whitehathub-007/langchaingo
 ```
 
 ## Step 2: Configure Your API Key
@@ -44,8 +44,8 @@ import (
     "fmt"
     "log"
 
-    "github.com/vxcontrol/langchaingo/llms"
-    "github.com/vxcontrol/langchaingo/llms/openai"
+    "github.com/whitehathub-007/langchaingo/llms"
+    "github.com/whitehathub-007/langchaingo/llms/openai"
 )
 
 func main() {
@@ -87,8 +87,8 @@ import (
     "os"
     "strings"
 
-    "github.com/vxcontrol/langchaingo/llms"
-    "github.com/vxcontrol/langchaingo/llms/openai"
+    "github.com/whitehathub-007/langchaingo/llms"
+    "github.com/whitehathub-007/langchaingo/llms/openai"
 )
 
 func main() {
@@ -139,9 +139,9 @@ import (
     "os"
     "strings"
 
-    "github.com/vxcontrol/langchaingo/llms"
-    "github.com/vxcontrol/langchaingo/llms/openai"
-    "github.com/vxcontrol/langchaingo/memory"
+    "github.com/whitehathub-007/langchaingo/llms"
+    "github.com/whitehathub-007/langchaingo/llms/openai"
+    "github.com/whitehathub-007/langchaingo/memory"
 )
 
 func main() {
@@ -211,9 +211,9 @@ import (
     "os"
     "strings"
 
-    "github.com/vxcontrol/langchaingo/chains"
-    "github.com/vxcontrol/langchaingo/llms/openai"
-    "github.com/vxcontrol/langchaingo/memory"
+    "github.com/whitehathub-007/langchaingo/chains"
+    "github.com/whitehathub-007/langchaingo/llms/openai"
+    "github.com/whitehathub-007/langchaingo/memory"
 )
 
 func main() {
@@ -270,7 +270,7 @@ go run main.go
 
 ## Complete Example
 
-You can find the complete working example with all steps in the [tutorial-basic-chat-app](https://github.com/vxcontrol/langchaingo/tree/main/examples/tutorial-basic-chat-app) directory.
+You can find the complete working example with all steps in the [tutorial-basic-chat-app](https://github.com/whitehathub-007/langchaingo/tree/main/examples/tutorial-basic-chat-app) directory.
 
 ## Conclusion
 

@@ -7,11 +7,11 @@ import (
 	"os"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/embeddings"
-	"github.com/vxcontrol/langchaingo/embeddings/cybertron"
-	"github.com/vxcontrol/langchaingo/schema"
-	"github.com/vxcontrol/langchaingo/vectorstores"
-	"github.com/vxcontrol/langchaingo/vectorstores/weaviate"
+	"github.com/whitehathub-007/langchaingo/embeddings"
+	"github.com/whitehathub-007/langchaingo/embeddings/cybertron"
+	"github.com/whitehathub-007/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/vectorstores"
+	"github.com/whitehathub-007/langchaingo/vectorstores/weaviate"
 
 	"github.com/chewxy/math32"
 	"github.com/google/uuid"

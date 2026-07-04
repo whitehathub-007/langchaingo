@@ -22,7 +22,7 @@
 //
 // Create a Bedrock client:
 //
-//	import "github.com/vxcontrol/langchaingo/llms/bedrock"
+//	import "github.com/whitehathub-007/langchaingo/llms/bedrock"
 //
 //	llm, err := bedrock.New(
 //	    bedrock.WithModel(bedrock.ModelAnthropicClaudeSonnet45),

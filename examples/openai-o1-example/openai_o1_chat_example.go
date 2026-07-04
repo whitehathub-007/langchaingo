@@ -8,8 +8,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/openai"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/openai"
 )
 
 var flagModel = flag.String("model", "o1-preview", "model to use (e.g. 'o1-preview', 'o1-mini')")

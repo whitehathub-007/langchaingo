@@ -6,10 +6,10 @@ import (
 	"log"
 	"os"
 
-	"github.com/vxcontrol/langchaingo/chains"
-	"github.com/vxcontrol/langchaingo/documentloaders"
-	"github.com/vxcontrol/langchaingo/llms/ollama"
-	"github.com/vxcontrol/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/chains"
+	"github.com/whitehathub-007/langchaingo/documentloaders"
+	"github.com/whitehathub-007/langchaingo/llms/ollama"
+	"github.com/whitehathub-007/langchaingo/schema"
 )
 
 func main() {

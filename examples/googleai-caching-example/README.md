@@ -124,4 +124,4 @@ err := helper.DeleteCachedContent(ctx, name)
 ## Learn More
 
 - [Google AI Caching Documentation](https://ai.google.dev/gemini-api/docs/caching)
-- [langchaingo Documentation](https://github.com/vxcontrol/langchaingo)
+- [langchaingo Documentation](https://github.com/whitehathub-007/langchaingo)

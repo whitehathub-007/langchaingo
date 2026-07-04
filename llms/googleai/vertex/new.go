@@ -6,10 +6,10 @@ package vertex
 import (
 	"context"
 
-	"github.com/vxcontrol/langchaingo/callbacks"
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/googleai"
-	"github.com/vxcontrol/langchaingo/llms/googleai/internal/palmclient"
+	"github.com/whitehathub-007/langchaingo/callbacks"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/googleai"
+	"github.com/whitehathub-007/langchaingo/llms/googleai/internal/palmclient"
 
 	"cloud.google.com/go/vertexai/genai"
 )

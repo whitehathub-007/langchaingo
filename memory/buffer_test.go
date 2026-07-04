@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/schema"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

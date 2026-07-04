@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/internal/maputil"
-	"github.com/vxcontrol/langchaingo/internal/setutil"
-	"github.com/vxcontrol/langchaingo/memory"
-	"github.com/vxcontrol/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/internal/maputil"
+	"github.com/whitehathub-007/langchaingo/internal/setutil"
+	"github.com/whitehathub-007/langchaingo/memory"
+	"github.com/whitehathub-007/langchaingo/schema"
 )
 
 const delimiter = ","

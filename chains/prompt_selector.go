@@ -1,8 +1,8 @@
 package chains
 
 import (
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/prompts"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/prompts"
 )
 
 // PromptSelector is the interface for selecting a formatter depending on the

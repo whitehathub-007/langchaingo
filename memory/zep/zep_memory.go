@@ -3,9 +3,9 @@ package zep
 import (
 	"context"
 
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/memory"
-	"github.com/vxcontrol/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/memory"
+	"github.com/whitehathub-007/langchaingo/schema"
 
 	"github.com/getzep/zep-go"
 	zepClient "github.com/getzep/zep-go/client"

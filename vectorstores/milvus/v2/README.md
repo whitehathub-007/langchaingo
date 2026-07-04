@@ -13,10 +13,10 @@ The original `vectorstores/milvus` package uses the archived `github.com/milvus-
 1. **Update imports**:
    ```go
    // Old
-   import "github.com/vxcontrol/langchaingo/vectorstores/milvus"
+   import "github.com/whitehathub-007/langchaingo/vectorstores/milvus"
 
    // New
-   import "github.com/vxcontrol/langchaingo/vectorstores/milvus/v2"
+   import "github.com/whitehathub-007/langchaingo/vectorstores/milvus/v2"
    ```
 
 2. **Update configuration** (optional - v1 configs are automatically converted):
@@ -71,10 +71,10 @@ package main
 import (
     "context"
 
-    "github.com/vxcontrol/langchaingo/embeddings"
-    "github.com/vxcontrol/langchaingo/llms/openai"
-    "github.com/vxcontrol/langchaingo/schema"
-    "github.com/vxcontrol/langchaingo/vectorstores/milvus/v2"
+    "github.com/whitehathub-007/langchaingo/embeddings"
+    "github.com/whitehathub-007/langchaingo/llms/openai"
+    "github.com/whitehathub-007/langchaingo/schema"
+    "github.com/whitehathub-007/langchaingo/vectorstores/milvus/v2"
 
     "github.com/milvus-io/milvus/client/v2/entity"
     "github.com/milvus-io/milvus/client/v2/index"
@@ -259,4 +259,4 @@ go test ./vectorstores/milvus/v2/...
 
 - [Migration Examples](example_migration.go) - Detailed migration examples
 - [Milvus SDK v2 Documentation](https://milvus.io/docs)
-- [LangChain Go Documentation](https://github.com/vxcontrol/langchaingo)
+- [LangChain Go Documentation](https://github.com/whitehathub-007/langchaingo)

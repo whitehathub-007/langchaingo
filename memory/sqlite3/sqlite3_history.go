@@ -8,8 +8,8 @@ import (
 	"database/sql"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/schema"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/schema"
 
 	_ "github.com/mattn/go-sqlite3" // sqlite3 driver.
 )

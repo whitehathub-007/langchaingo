@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/vxcontrol/langchaingo/httputil"
+	"github.com/whitehathub-007/langchaingo/httputil"
 
 	"github.com/PuerkitoBio/goquery"
 )

@@ -35,7 +35,7 @@ import (
   "context"
   "fmt"
 
-  "github.com/vxcontrol/langchaingo/internal/cloudsqlutil"
+  "github.com/whitehathub-007/langchaingo/internal/cloudsqlutil"
 )
 
 func NewCloudSQLEngine(ctx context.Context) (*cloudsqlutil.PostgresEngine, error) {
@@ -61,7 +61,7 @@ func main() {
 }
 ```
 
-See the full [Chat Message History example and tutorial](https://github.com/vxcontrol/langchaingo/tree/main/examples/google-cloudsql-chat-message-history-example).
+See the full [Chat Message History example and tutorial](https://github.com/whitehathub-007/langchaingo/tree/main/examples/google-cloudsql-chat-message-history-example).
 
 ## Engine Creation WithPool
 
@@ -76,7 +76,7 @@ import (
   "fmt"
 
   "github.com/jackc/pgx/v5/pgxpool"
-  "github.com/vxcontrol/langchaingo/internal/cloudsqlutil"
+  "github.com/whitehathub-007/langchaingo/internal/cloudsqlutil"
 )
 
 func NewCloudSQLWithPoolEngine(ctx context.Context) (*cloudsqlutil.PostgresEngine, error) {
@@ -112,9 +112,9 @@ import (
   "context"
   "fmt"
 
-  "github.com/vxcontrol/langchaingo/internal/cloudsqlutil"
-  "github.com/vxcontrol/langchaingo/llms"
-  "github.com/vxcontrol/langchaingo/memory/cloudsql"
+  "github.com/whitehathub-007/langchaingo/internal/cloudsqlutil"
+  "github.com/whitehathub-007/langchaingo/llms"
+  "github.com/whitehathub-007/langchaingo/memory/cloudsql"
 )
 
 func main() {

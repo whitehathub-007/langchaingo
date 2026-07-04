@@ -848,7 +848,7 @@ tail -f ~/.ollama/logs/server.log
 
 **HTTP Traffic Logging**:
 ```go
-import "github.com/vxcontrol/langchaingo/httputil"
+import "github.com/whitehathub-007/langchaingo/httputil"
 
 llm, _ := ollama.New(
     ollama.WithHTTPClient(httputil.LoggingClient),  // Logs all requests
@@ -1104,4 +1104,4 @@ embeddings, err := llm.CreateEmbedding(ctx, texts)
 - [Ollama Official Docs](https://ollama.com/docs)
 - [Model Library](https://ollama.com/library)
 - [Ollama Cloud Docs](https://ollama.com/docs/cloud)
-- [LangChainGo Documentation](https://github.com/vxcontrol/langchaingo)
+- [LangChainGo Documentation](https://github.com/whitehathub-007/langchaingo)

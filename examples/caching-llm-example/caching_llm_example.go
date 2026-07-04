@@ -7,10 +7,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/cache"
-	"github.com/vxcontrol/langchaingo/llms/cache/inmemory"
-	"github.com/vxcontrol/langchaingo/llms/ollama"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/cache"
+	"github.com/whitehathub-007/langchaingo/llms/cache/inmemory"
+	"github.com/whitehathub-007/langchaingo/llms/ollama"
 
 	"github.com/mitchellh/go-wordwrap"
 )

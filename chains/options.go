@@ -3,9 +3,9 @@ package chains
 import (
 	"context"
 
-	"github.com/vxcontrol/langchaingo/callbacks"
-	"github.com/vxcontrol/langchaingo/llms"
-	"github.com/vxcontrol/langchaingo/llms/streaming"
+	"github.com/whitehathub-007/langchaingo/callbacks"
+	"github.com/whitehathub-007/langchaingo/llms"
+	"github.com/whitehathub-007/langchaingo/llms/streaming"
 )
 
 // ChainCallOption is a function that can be used to modify the behavior of the Call function.

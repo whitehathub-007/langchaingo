@@ -7,10 +7,10 @@ import (
 	"log"
 	"os"
 
-	"github.com/vxcontrol/langchaingo/chains"
-	"github.com/vxcontrol/langchaingo/llms/openai"
-	"github.com/vxcontrol/langchaingo/tools/sqldatabase"
-	_ "github.com/vxcontrol/langchaingo/tools/sqldatabase/postgresql"
+	"github.com/whitehathub-007/langchaingo/chains"
+	"github.com/whitehathub-007/langchaingo/llms/openai"
+	"github.com/whitehathub-007/langchaingo/tools/sqldatabase"
+	_ "github.com/whitehathub-007/langchaingo/tools/sqldatabase/postgresql"
 )
 
 func main() {
